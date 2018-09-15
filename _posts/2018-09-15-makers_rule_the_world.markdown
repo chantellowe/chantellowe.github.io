@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Makers Rule the World"
-date:       2018-09-15 20:47:56 +0000
+date:       2018-09-15 16:47:56 -0400
 permalink:  makers_rule_the_world
 ---
 
-#### (or, ‘Why I Chose Software Development’)
+### (or, ‘Why I Chose Software Development’)
 
 *tl;dr:*
 
@@ -13,7 +13,7 @@ permalink:  makers_rule_the_world
 
 ___ ___ ___
 
-#### Hello out there!
+### Hello out there!
 
 As this is my first post during my time as a student in the Online Web Developer Program through the Flatiron School, I feel the need to include a little bit about myself.
 
@@ -23,11 +23,13 @@ I first got interested in code and software-related technology on accident. As a
 
 That's essentially the behavior I've kept over the years. Study, study, study. Feel incompetent in my abilities. Never publish any of my work. What I didn't realize was that what I was really dealing with internally all this time was actually “imposter syndrome", or “a pervasive feeling of self-doubt, insecurity, or fraudulence despite often overwhelming evidence to the contrary” (Hendriksen, 2015). Not knowing what I was dealing with would lead me to halt my learning every time, causing me to reverse my progression for whenever I decided to later pick it back up.
 
+### Flatiron School
+
 Which leads me to why I'm here at Flatiron School learning software development online. I'm 24 years old now, and I've had a lot of time to learn about myself and others. A lot of time has been spent on self-reflection and introspection. I spent 4 years in a Social Work program, and that's basically all we do other than our field work requirements. All of this time spent focusing on my inner self reminded me of who I was and what I wanted out of life.
 
 So who and what am I? I'm a maker. I've always been a maker. Building and creating in the physical and digital worlds is what keeps me going. Yes, I would like to get a job or preferably start a business that leaves me with a comfortable lifestyle, but that's not the primary goal for me. I chose and continue to choose software because it will allow me to continue to create as technology advances our world into the next era of innovation.
 
-#### Makers *will* rule the world.
+### Makers *will* rule the world.
 
 Makers do rule the world, in my honest opinion. It just seems to be a bit on the down low at the moment. Whether from a micro perspective--with a kid in a school library makerspace with their first 3D printer--or in the macro--with a business strategist trying to convince his colleagues of the need to consider a shift in the market that relabels consumers as makers/fixers/do-it-yourselfers and figures out how to better serve this ever-growing community.
 
